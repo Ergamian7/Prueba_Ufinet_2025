@@ -16,3 +16,10 @@ cd userManagment
 📂  Construir y ejecutar
 mvn clean install
 mvn spring-boot:run
+
+📂 Bd de Datos
+Usar el archivo Script en el orden que esta.
+📂 Potsman
+Prabar las url del backend. UserManagmentCollection.postman_collection.json
+
+
